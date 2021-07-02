@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @summerene
 - 👀 I’m interested in Java Full Stack Development
-- 🌱 I’m currently learning Spring Framework and Spring Boot
+- 🌱 I’m currently learning Gradle and have completed a class on Spring Framework and Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
